@@ -48,7 +48,7 @@ This project has comprehensive requirements (100 pages specification), fixed del
 Though the team has rich experiences on hardware/software, but this project require integrating distributed computing, networking, car tracking hardware, and real-time traffic updates. The most significant risk would be prototype iterations before full-scale implementation. Spiral model could help eliminating the riskiest factors during the processes.
 
 
-### 6. Educational game
+### 6. Educational Game
 
 **Lifecycle Model:** Agile Model
 

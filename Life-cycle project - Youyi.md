@@ -8,7 +8,7 @@
 - Leo Hoang Nguyen
 - Youyi Tian
 
-[GitHub repository](https://github.com/KenjiFH/CSS-360-Project-1 "https://github.com/KenjiFH/CSS-360-Project-1")
+**[GitHub repository](https://github.com/KenjiFH/CSS-360-Project-1 "https://github.com/KenjiFH/CSS-360-Project-1")**
 
 ## Case Justification
 

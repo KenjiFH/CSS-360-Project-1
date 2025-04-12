@@ -76,8 +76,9 @@ The risk analysis through prototyping is critical to secure the further grants. 
 | 7   | Global Health                | Spiral Model      | - Prototype is critical<br>- Risks investigation as early as possible                                                     |
 
 > [Markdown features used]
-> - Headers
-> - Text formatting
-> - External link
-> - Tabbles
-> - Lists
+> 1. Headers
+> 2. Text formatting
+> 3. External link
+> 4. Tabbles
+> 5. Lists
+

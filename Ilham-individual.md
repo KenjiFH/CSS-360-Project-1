@@ -25,9 +25,9 @@ and tend to change over time. They’ll also be involved throughout the process,
 > Since there is a fixed 18-month deadline and we have an experienced team, a linear approach makes the most sense here. 
 
 ## 5: Reducing Traffic
-> The <strong>Incremental</strong> model is best for this project because we can build and deliver it in smaller parts. Since it involves GPS tracking, traffic sensors, and
+> The <strong>Incremental</strong> model is best for this project because we can build and deliver it in smaller parts. 
 >
-> digital signs, this approach lets us test each piece before putting everything together.
+> Since it involves GPS tracking, traffic sensors, and digital signs, this approach lets us test each piece before putting everything together.
 
 ## 6: Educational game 
 > The <strong>Agile</strong> model is best for this project because we can have continuous development and regular feedback.
@@ -35,6 +35,6 @@ and tend to change over time. They’ll also be involved throughout the process,
 >  Since educators and stakeholders will be testing the product frequently, Agile will support ongoing improvements based on their input.
 
 ## 7: Global Health 
-> The <strong>Incremental</strong> model works well for this project because the team will start small and grow over time. With 3 experienced developers, an initial version can
+> The <strong>Incremental</strong> model works well for this project because the team will start small and grow over time. 
 >
->  be built and tested, adding new features as more resources become available.
+>  With 3 experienced developers, an initial version can be built and tested, adding new features as more resources become available.

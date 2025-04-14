@@ -63,10 +63,10 @@ We considered using spiral, however the specifications were not subject to chang
 
 ## 5) Reducing Traffic
 ### Chosen SDLC model: Spiral
-We decided to go with the spiral model for this project because it involves complex hardware like GPS trackers, cameras, sensors,  and software systems. Spiral works well here since it helps us identify and manage risks early, build prototypes throughout, and handle the kind of uncertainty that comes with real-time, embedded systems.
+We decided to go with the spiral model for this project because it involves complex hardware like GPS trackers, cameras, sensors,  and software systems. Spiral works well here since it helps us identify and manage risks early, build prototypes throughout, and handle the kind of uncertainty that comes with real-time, *embedded systems*.
 
 ### Other Considerations 
-We thought about using Incremental since it’s good for breaking the project into smaller pieces, but it doesn’t offer the same level of risk management that Spiral does, which we felt was important for this kind of system.
+We thought about using Incremental since it’s good for breaking the project into smaller pieces, but it doesn’t offer the same level of *risk management* that Spiral does, which we felt was important for this kind of system.
 
 ## 6) Educational game
 ### Chosen SDLC model: Agile

@@ -21,8 +21,14 @@
 ### Chosen SDLC model: Spiral
 <!-- Add justification, which includes key aspects below-->
 
+We chose to go with a spiral model for the nuclear power plant. This is because when working with something as dangerous as a nuclear power plant, risk mitigation is key and spiral is best at risk analysis and prevention. The multiple iterations of a spiral model would also help us to catch any bugs or errors early on, which would be disastrous if not found. Spirals risk mitigation, as well as prototyping gives it the best case out of all the SDLC for this project.
+
+
+
 ### Other Considerations 
 <!-- Add other considered options below-->
+Waterfall was another possibility, however the regulations of nuclear powerplants are subject to change, and waterfall is pretty linear in that regard, which would also be worse for finding potential errors or risks, due to lack of prototyping and risk assessment. 
+
 
 ## 4) Department of Transportation
 ### Chosen SDLC model: Waterfall

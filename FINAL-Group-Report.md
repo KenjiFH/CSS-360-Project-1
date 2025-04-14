@@ -2,6 +2,17 @@
 
 **[GitHub repository](https://github.com/KenjiFH/CSS-360-Project-1 "https://github.com/KenjiFH/CSS-360-Project-1")**
 
+## Overview
+| Number | Case                         | Group Answer | Other Consideration |
+| ------ | ---------------------------- | ------------ | ------------------- |
+| 1      | New e-Commerce site          | Incremental  |                     |
+| 2      | Dental office site           | Agile        |                     |
+| 3      | Nuclear Power Plant          | Spiral       | Waterfall           |
+| 4      | Department of Transportation | Waterfall    | Spiral              |
+| 5      | Reducing Traffic             | Spiral       | Incremental         |
+| 6      | Educational game             | Agile        | Incremental         |
+| 7      | Global Health                | Incremental  |                     |
+
 ## 1) New e-Commerce Site
 ### Chosen SDLC model: Incremental
 <!-- Add justification, which includes key aspects below-->

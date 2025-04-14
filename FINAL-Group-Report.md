@@ -1,5 +1,6 @@
 # MARS Project Life-Cycles Group Report
 
+**[GitHub repository](https://github.com/KenjiFH/CSS-360-Project-1 "https://github.com/KenjiFH/CSS-360-Project-1")**
 
 ## 1) New e-Commerce Site
 ### Chosen SDLC model: Incremental

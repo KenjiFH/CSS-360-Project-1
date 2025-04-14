@@ -14,4 +14,4 @@
 | 4      | Department of Transportation | A (Waterfall)    | A     | A     | A    | A     | A   |
 | 5      | Reducing Traffic             | C (Spiral)       | C     | C     | C    | B     | C   |
 | 6      | Educational game             | D (Agile)        | D     | D     | D    | D     | D   |
-| 7      | Global Health                | B (Incremental   | D     | C     | B    | B     | B   |
+| 7      | Global Health                | B (Incremental)  | D     | C     | B    | B     | B   |

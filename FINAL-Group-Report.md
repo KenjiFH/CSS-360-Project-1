@@ -11,7 +11,7 @@
 | 4      | Department of Transportation | Waterfall    | Spiral              |
 | 5      | Reducing Traffic             | Spiral       | Incremental         |
 | 6      | Educational game             | Agile        | Incremental         |
-| 7      | Global Health                | Incremental  | Agile               |
+| 7      | Global Health                | Incremental  | Agile, Spiral       |
 
 ## 1) New e-Commerce Site
 ### Chosen SDLC model: Incremental

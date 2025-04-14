@@ -52,9 +52,6 @@ This project needs to be built quickly and improved based on feedback from teach
 ### Other Considerations 
 - **Incremental** – Could work, but Agile offers *faster* response to feedback and better stakeholder engagement.
 
-### Other Considerations 
-<!-- Add other considered options below-->
-
 
 ## 7) Global Health
 ### Chosen SDLC model: Incremental

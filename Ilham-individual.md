@@ -14,8 +14,8 @@ and tend to change over time. They’ll also be involved throughout the process,
 >
 > Nuclear power is a **high risk**, and we can't afford any failures because it can have serious consequences for people and the environment. This model will help us address the riskiest components first and refine them over time.
 
-### *Why the Spiral Model Works:*
-1. **Step-by-step approach**: Breaks the project into smaller, manageable parts.
+### *Why I think the Spiral Model Works:*
+1. **Step-by-step approach**: It can breaks the project into smaller, manageable parts.
 2. **Risk management**: Focuses on identifying and addressing risks early.
 3. **Continuous improvement**: Refines components over time, minimizing the chance of failure.
 

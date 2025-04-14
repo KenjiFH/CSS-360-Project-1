@@ -40,4 +40,6 @@ to this project. The team already has a team member who is involved in communica
 will be quick.
 
 ## 7) Global Health
-**Selected SDLC model:**
+**Selected SDLC model: Incremental**
+
+At the start, the team is a bit too small to use a linear approach like waterfall to develop the software, and agile methods are not feasible, as the customer does not require rapidly evolving features to their desired software, and thus, does not need to be in constant communication with the development team. Spiral methods are very costly, so building the software incrementally is the best option. It will allow the team to see if their software is making an impact and make need changes in order to recieve further grants, and project management will be more flexibile as more team members are hired.

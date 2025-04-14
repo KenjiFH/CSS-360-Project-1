@@ -85,3 +85,10 @@ Ultimately we decided on the incremental development approach because the possib
 ### Other Considerations 
 We considered agile and spiral for this as well, but spiral ultimately has one deliverable, which would not work well here. Agile would generally work well in a situation like this, but we are not relying on customer feedback for development. We are also working with a health system, which generally requires more careful planning.
 
+## Markdown Features Used List
+> [Markdown Features]
+> 1. Headers
+> 2. Text formatting
+> 3. External link
+> 4. Tabbles
+> 5. Lists

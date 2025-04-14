@@ -27,10 +27,17 @@ We have detailed specifications on what the expected software should be, and are
 through the steps of the software development life cycle.
 
 ## 5) Reducing Traffic
-**Selected SDLC model:**
+**Selected SDLC model: Spiral**
+
+Due to the complexity of the project, which involves car tracking equipment along with street and freeway sensors and cameras, it would be beneficial to have risk management throughout the development process. <br>
+Should changes arise, whether it be in any sort of hardware, vehicles, infrastructure (billboards, street cameras, etc.), it will be easier to deal with due to the spiral model's inherent change avoidant and tolerant nature.
 
 ## 6) Educational game
-**Selected SDLC model:**
+**Selected SDLC model: Agile**
+
+Because the project is being carried out by a small team of 7 experienced developers, and customers expect quick delivery of games with an evolving set of requirements, agile methods are the perfect approach <br>
+to this project. The team already has a team member who is involved in communications with local school district teachers and administrators who are the ones requesting this software, so requirements elicitation <br>
+will be quick.
 
 ## 7) Global Health
 **Selected SDLC model:**

@@ -5,8 +5,8 @@
 ## Overview
 | Number | Case                         | Group Answer | Other Consideration |
 | ------ | ---------------------------- | ------------ | ------------------- |
-| 1      | New e-Commerce site          | Incremental  |                     |
-| 2      | Dental office site           | Agile        |                     |
+| 1      | New e-Commerce site          | Incremental  | Agile               |
+| 2      | Dental office site           | Agile        | Incremental         |
 | 3      | Nuclear Power Plant          | Spiral       | Waterfall           |
 | 4      | Department of Transportation | Waterfall    | Spiral              |
 | 5      | Reducing Traffic             | Spiral       | Incremental         |
@@ -48,7 +48,9 @@ We chose to go with a spiral model for the nuclear power plant. This is because 
 
 ### Other Considerations 
 <!-- Add other considered options below-->
-Waterfall was another possibility, however the regulations of nuclear powerplants are subject to change, and waterfall is pretty linear in that regard, which would also be worse for finding potential errors or risks, due to lack of prototyping and risk assessment. 
+- **Waterfall**
+
+  Waterfall was another possibility, however the regulations of nuclear powerplants are subject to change, and waterfall is pretty linear in that regard, which would also be worse for finding potential errors or risks, due to lack     of prototyping and risk assessment. 
 
 
 ## 4) Department of Transportation
@@ -61,7 +63,9 @@ The deciding aspects of our choice were the extensive documentation and the very
 ### Other Considerations 
 <!-- Add other considered options below-->
 
-We considered using spiral, however the specifications were not subject to change and there were not really any high levels of risk or uncertainty involved, so we chose waterfall.
+- **Spiral**
+
+  We considered using spiral, however the specifications were not subject to change and there were not really any high levels of risk or uncertainty involved, so we chose waterfall.
 
 
 ## 5) Reducing Traffic
@@ -69,21 +73,27 @@ We considered using spiral, however the specifications were not subject to chang
 We decided to go with the spiral model for this project because it involves complex hardware like GPS trackers, cameras, sensors,  and software systems. Spiral works well here since it helps us identify and manage risks early, build prototypes throughout, and handle the kind of uncertainty that comes with real-time, *embedded systems*.
 
 ### Other Considerations 
-We thought about using Incremental since it’s good for breaking the project into smaller pieces, but it doesn’t offer the same level of *risk management* that Spiral does, which we felt was important for this kind of system.
+- **Incremental**
+
+  We thought about using Incremental since it’s good for breaking the project into smaller pieces, but it doesn’t offer the same level of *risk management* that Spiral does, which we felt was important for this kind of system.
 
 ## 6) Educational game
 ### Chosen SDLC model: Agile
 We went with Agile for the educational game since it needs to be built quickly and updated based on feedback from teachers and admins. Agile’s a good fit because it lets us make changes quickly, push out updates fast, and stay in close communication, which works well for a small, hands-on team like ours.
 
 ### Other Considerations 
-We thought about using Incremental, but Agile seemed better since it gives us more flexibility to respond to feedback quickly and stay connected with stakeholders throughout the project.
+- **Incremental**
+
+  We thought about using Incremental, but Agile seemed better since it gives us more flexibility to respond to feedback quickly and stay connected with stakeholders throughout the project.
 
 ## 7) Global Health
 ### Chosen SDLC model: Incremental
 Ultimately we decided on the incremental development approach because the possibility for further grants if impact is shown. As we need to show impact, we need to use an approach that deploys early, and has room to accomodate change. The incremental approach works perfectly here, as it allows each deliverable to be usable by customers to some degree, which allows us to show our impact, and receive further grants.
 
 ### Other Considerations 
-We considered agile and spiral for this as well, but spiral ultimately has one deliverable, which would not work well here. Agile would generally work well in a situation like this, but we are not relying on customer feedback for development. We are also working with a health system, which generally requires more careful planning.
+- **Agile**
+
+  We considered agile and spiral for this as well, but spiral ultimately has one deliverable, which would not work well here. Agile would generally work well in a situation like this, but we are not relying on customer feedback for development. We are also working with a health system, which generally requires more careful planning.
 
 ## Markdown Features Used List
 > [Markdown Features]

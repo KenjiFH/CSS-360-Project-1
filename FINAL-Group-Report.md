@@ -30,10 +30,13 @@ we will be able to meet those demands in a quick and timely manner
 ## 2) Dental office site
 ### Chosen SDLC model: Agile
 <!-- Add justification, which includes key aspects below-->
+Again, we are working on a website, so adaptability to new client requests and fast delivery are the key aspects to focus on. In this case, we have a bit more freedom in what tools we can use, and we have a closer line of communication to our client, which is our dentist friend. That makes agile the best SDLC, as we can gather "user stories" from our client, and quickly deliver features to their website in order to draw in more patients.
 
 ### Other Considerations 
 <!-- Add other considered options below-->
+- **Incremental**
 
+  Because we have a client that is not strict on deadlines, and wishes to continually add features future according to scenarios described by them, Agile will be the optimal model, as it is faster than incremental developement. We     can take their "user stories" and implement features to satisfy what they want to be able to do with the site.
 
 ## 3) Nuclear Power Plant
 ### Chosen SDLC model: Spiral

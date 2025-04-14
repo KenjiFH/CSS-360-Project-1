@@ -77,8 +77,8 @@ We thought about using Incremental, but Agile seemed better since it gives us mo
 
 ## 7) Global Health
 ### Chosen SDLC model: Incremental
-Ultimately we decided on the **incremental** development approach because the possibility for further grants if impact is shown. As we need to show impact, we need to use an approach that deploys early, and has room to accomodate change. The incremental approach works perfectly here, as it allows each deliverable to be usable by customers to some degree, which allows us to show our impact, and receive further grants.
+Ultimately we decided on the incremental development approach because the possibility for further grants if impact is shown. As we need to show impact, we need to use an approach that deploys early, and has room to accomodate change. The incremental approach works perfectly here, as it allows each deliverable to be usable by customers to some degree, which allows us to show our impact, and receive further grants.
 
 ### Other Considerations 
-We considered **agile** and **spiral** for this as well, but spiral ultimately has one deliverable, which would not work well here. Agile would generally work well in a situation like this, but we are not relying on customer feedback for development. We are also working with a health system, which generally requires more careful planning.
+We considered agile and spiral for this as well, but spiral ultimately has one deliverable, which would not work well here. Agile would generally work well in a situation like this, but we are not relying on customer feedback for development. We are also working with a health system, which generally requires more careful planning.
 

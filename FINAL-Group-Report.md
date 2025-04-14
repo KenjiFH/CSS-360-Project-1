@@ -39,16 +39,18 @@ We considered using spiral, however the specifications were not subject to chang
 
 ## 5) Reducing Traffic
 ### Chosen SDLC model: Spiral
-<!-- Add justification, which includes key aspects below-->
-
+> This project combines complex hardware (GPS trackers, cameras, sensors) with software systems. The Spiral model is ideal because it supports early risk assessment, continuous prototyping, and can handle uncertainties, which are crucial for integrating embedded systems with real-time infrastructure.
 
 ### Other Considerations 
-<!-- Add other considered options below-->
+- **Incremental** –  Good for delivering parts of the project in stages, but lacks the risk management that Spiral provides.
 
 
 ## 6) Educational game
 ### Chosen SDLC model: Agile
-<!-- Add justification, which includes key aspects below-->
+< This project needs to be built quickly and improved based on feedback from teachers and administrators. Agile works well because it supports *fast updates*, changing requirements, and close teamwork  which is perfect for a small, active team building an educational game.
+
+### Other Considerations 
+- **Incremental** – Could work, but Agile offers *faster* response to feedback and better stakeholder engagement.
 
 ### Other Considerations 
 <!-- Add other considered options below-->

@@ -16,10 +16,16 @@
 ## 1) New e-Commerce Site
 ### Chosen SDLC model: Incremental
 <!-- Add justification, which includes key aspects below-->
+Since we are working on a website, an incremental development approach is the best option, beating the linear waterfall model in terms of speed and adaptability, two key aspects that are necessary in the
+rapidly changing business landscape. Businesses won't have a full vision of their desired site at the start, so they will want to continously add and remove features over time. With the incremental model,
+we will be able to meet those demands in a quick and timely manner
 
 ### Other Considerations 
 <!-- Add other considered options below-->
+- **Agile**
 
+  Agile was another consideration, since it is based off of the incremental model, however, due to the varied skill levels within the team and the management expectation that the team will use their
+  provided in-house templates with custom scripting and extentions with minor modifications, it may be difficult to achieve smooth workflow between the team members and the separate group.
 
 ## 2) Dental office site
 ### Chosen SDLC model: Agile

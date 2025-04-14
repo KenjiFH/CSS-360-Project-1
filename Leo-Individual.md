@@ -14,10 +14,17 @@ Because of the client's flexible deadlines and desire to continuously add featur
 Since the website capabilities will not be defined all at once, but rather incrementally other time, constant communication with the client will be necessary, gathering the desired features through "user stories".
 
 ## 3) Nuclear Power Plant
-**Selected SDLC model:**
+**Selected SDLC model: Spiral**
+
+Software development for a nuclear power plant will be a large-scale project, and thus, steps must be taken to minimize risks throughout the project, with constant validation throughout the process. <br>
+Because the software must be robust, able to deal with hardware failure, and able to fail safely, we need to make sure this is possible through constant requirements specification and validation. <br>
+Should any issues or changes arise, it will be easy to deal with.
 
 ## 4) Department of Transportation
-**Selected SDLC model:**
+**Selected SDLC model: Waterfall**
+
+We have detailed specifications on what the expected software should be, and are given a deadline to complete it by. Because the team is comprised of experienced staff, there should be no issues sequentially working <br>
+through the steps of the software development life cycle.
 
 ## 5) Reducing Traffic
 **Selected SDLC model:**
